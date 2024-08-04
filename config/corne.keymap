@@ -28,12 +28,12 @@
         };
 
         Copy {
-            bindings = <&kp LC(C)>;
+            bindings = <&mt LEFT_CONTROL C>;
             key-positions = <38 16>;
         };
 
         paste {
-            bindings = <&kp LC(V)>;
+            bindings = <&mt LEFT_CONTROL V>;
             key-positions = <38 28>;
         };
     };
