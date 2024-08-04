@@ -26,16 +26,6 @@
             bindings = <&bt BT_CLR>;
             key-positions = <36 38>;
         };
-
-        Copy {
-            bindings = <&mt LEFT_CONTROL C>;
-            key-positions = <38 16>;
-        };
-
-        paste {
-            bindings = <&mt LEFT_CONTROL V>;
-            key-positions = <38 28>;
-        };
     };
 
     keymap {
